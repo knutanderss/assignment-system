@@ -1,0 +1,36 @@
+nav.navbar {
+  height: 50px;
+  margin-bottom: 50px;
+}
+h1 {
+  margin-bottom: 40px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#add-assignment {
+  max-width: 500px;
+}
+
+.assignments {
+  margin: 40px 15px;
+  text-align: center;
+}
+
+#assignment-list .list-group-item {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#addAssignmentHeader:hover {
+  background: #EEE;
+}
+
+.formDisabled {
+  display: none;
+}
+
+.btn-danger {
+  margin-left: 10px;
+}

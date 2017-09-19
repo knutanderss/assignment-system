@@ -1,0 +1,19 @@
+
+> innleveringsplan@1.0.0 start /Users/knutandersstokke/Google Drive/Documents/Programmering/Elm/Innleveringsplan
+> node server.js
+
+Server for Submit System is now listening at port 3000
+
+> innleveringsplan@1.0.0 start /Users/knutandersstokke/Google Drive/Documents/Programmering/Elm/Innleveringsplan
+> node server.js
+
+
+> innleveringsplan@1.0.0 start /Users/knutandersstokke/Google Drive/Documents/Programmering/Elm/Innleveringsplan
+> node server.js
+
+Server for Submit System is now listening at port 3000
+
+> innleveringsplan@1.0.0 start /Users/knutandersstokke/Google Drive/Documents/Programmering/Elm/Innleveringsplan
+> node server.js
+
+Server for Submit System is now listening at port 3000

@@ -1,0 +1,52 @@
+{
+  "assignments": [
+    {
+      "title" : "Assignment 1 and Discussion 1",
+      "course" : "ICSI-107",
+      "due" : "09/08/2017",
+      "done" : true
+    },
+    {
+      "title" : "Assignment 2",
+      "course" : "ICSI-107",
+      "due" : "09/15/2017",
+      "done" : true
+    },
+    {
+      "title" : "Assignment 3",
+      "course" : "ICSI-107",
+      "due" : "09/22/2017",
+      "done" : false
+    },
+    {
+      "title" : "Assignment 4",
+      "course" : "ICSI-107",
+      "due" : "09/29/2017",
+      "done" : false
+    },
+    {
+      "title" : "Assignment 1",
+      "course" : "ICSI-401",
+      "due" : "09/07/2017",
+      "done" : true
+    },
+    {
+      "title" : "Assignment 2",
+      "course" : "ICSI-401",
+      "due" : "09/19/2017",
+      "done" : false
+    },
+    {
+      "title" : "Chapter 3",
+      "course" : "AMAT-108",
+      "due" : "09/18/2017",
+      "done" : true
+    },
+    {
+      "title" : "HomeWork 1",
+      "course" : "AMAT-367",
+      "due" : "09/15/2017",
+      "done" : true
+    }
+  ]
+}
